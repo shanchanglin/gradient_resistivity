@@ -1,0 +1,77 @@
+<comment>
+problem   = 2D reconnection with a resistivity gradient (run T6)
+reference = Lin, Liu & Li, arXiv:2109.07526
+configure = --prob=reconnection_gradient --flux=hlld --eos=adiabatic -b [-mpi -omp -hdf5]
+
+<job>
+problem_id = T6
+
+<output1>
+file_type = hst
+dt        = 0.01
+
+<output2>
+file_type   = athdf
+variable    = prim
+dt          = 0.25
+
+<output3>
+file_type   = athdf
+variable    = B
+dt          = 0.25
+
+<output4>
+file_type   = athdf
+variable    = uov
+dt          = 0.25
+
+<time>
+cfl_number     = 0.3
+nlim           = -1
+tlim           = 5.0
+integrator     = vl2
+xorder         = 2
+ncycle_out     = 100
+sts_integrator = none
+
+<mesh>
+nx1    = 512
+x1min  = 0.0
+x1max  = 2.0
+ix1_bc = outflow
+ox1_bc = outflow
+
+nx2    = 512
+x2min  = 0.0
+x2max  = 2.0
+ix2_bc = outflow
+ox2_bc = outflow
+
+nx3    = 1
+x3min  = -0.5
+x3max  = 0.5
+ix3_bc = periodic
+ox3_bc = periodic
+
+<meshblock>
+nx1 = 64
+nx2 = 64
+nx3 = 1
+
+<hydro>
+gamma = 1.6666666666667
+
+<problem>
+eta_ohm    = 5.000000e-03   # must be non-zero to enable Ohmic diffusion; value unused
+iprofile   = 0        # 0: tanh(y), 1: exp(-r), 2: uniform
+eta1       = 8.000000e-04
+eta2       = 4.200000e-03
+l_eta      = 0.05
+B0         = 1.0
+lambda     = 0.04
+beta       = 0.1
+d0         = 1.0
+xc         = 1.0
+yc         = 1.0
+pert_amp   = 0.0         # flux-perturbation amplitude (units of B0*lambda); 0 = none
+pert_width = 0.2
