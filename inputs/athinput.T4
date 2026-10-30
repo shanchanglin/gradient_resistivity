@@ -25,6 +25,10 @@ file_type   = athdf
 variable    = uov
 dt          = 0.25
 
+<output5>
+file_type = rst
+dt        = 1.0
+
 <time>
 cfl_number     = 0.3
 nlim           = -1

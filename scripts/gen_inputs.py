@@ -58,6 +58,10 @@ file_type   = {fmt}
 variable    = uov
 dt          = {dtout}
 
+<output5>
+file_type = rst
+dt        = 1.0
+
 <time>
 cfl_number     = 0.3
 nlim           = -1

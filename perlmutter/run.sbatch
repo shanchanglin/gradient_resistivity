@@ -20,4 +20,4 @@ if ldd $ATHENA | grep -q "not found"; then
 fi
 RESTART=$(ls -t $OUT/*.rst 2>/dev/null | head -1)
 if [ -n "$RESTART" ]; then ARGS="-r $RESTART"; else ARGS="-i $HERE/inputs/athinput.$RUN"; fi
-srun -n 64 -c 4 --cpu-bind=cores $ATHENA $ARGS output5/file_type=rst output5/dt=1.0
+srun -n 64 -c 4 --cpu-bind=cores $ATHENA $ARGS
