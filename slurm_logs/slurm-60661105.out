@@ -1,0 +1,408 @@
+
+Currently Loaded Modules:
+  1) xpmem/2.11.5-1.3_g73ade43320bc
+  2) gcc-native/14
+  3) perftools-base/26.03.0
+  4) cpe/26.03
+  5) cudatoolkit/13.2
+  6) craype-accel-nvidia80
+  7) gpu/1.0
+  8) sqs/2.0
+  9) darshan/default
+ 10) craype/2.7.36                  (c)
+ 11) cray-dsmml/0.3.1
+ 12) cray-libsci/26.03.0
+ 13) PrgEnv-gnu/8.7.0               (prgenv)
+ 14) craype-x86-milan               (cpe)
+ 15) craype-network-ofi             (cpe)
+ 16) cray-mpich/9.1.0               (mpi)
+ 17) cray-pmi/6.1.17
+ 18) libfabric/2.3.1
+ 19) cray-hdf5-parallel/1.14.3.9
+
+  Where:
+   c:       Compiler
+   cpe:     Cray Programming Environment Modules
+   mpi:     MPI Providers
+   prgenv:  Programming Environment Modules
+
+ 
+
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output2', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+No data_format specified in output block 'output3', using default
+No data_format specified in output block 'output4', using default
+
+Setup complete, entering main loop...
+
+cycle=0 time=0.0000000000000000e+00 dt=1.1259010814420180e-03
+cycle=100 time=1.1250324703867892e-01 dt=1.1241149844952512e-03
+cycle=200 time=2.2478685480724001e-01 dt=1.1215846881535492e-03
+cycle=300 time=3.3615503263596813e-01 dt=1.1046076120301914e-03
+cycle=400 time=4.4558101925845017e-01 dt=1.0831921461318366e-03
+cycle=500 time=5.5274781382815485e-01 dt=1.0596971516789618e-03
+cycle=600 time=6.5752144551387515e-01 dt=1.0354905904354135e-03
+cycle=700 time=7.5987095228586155e-01 dt=1.0112966558076626e-03
+cycle=800 time=8.5981682102042145e-01 dt=9.8745796100877317e-04
+cycle=900 time=9.5740347467319864e-01 dt=9.6413658141521143e-04
+cycle=1000 time=1.0526889011734135e+00 dt=9.4146407819510809e-04
+cycle=1100 time=1.1457435305255079e+00 dt=9.1954099462357908e-04
+cycle=1200 time=1.2366458546975085e+00 dt=8.9843409057521609e-04
+cycle=1300 time=1.3254792880396580e+00 dt=8.7817363864589853e-04
+cycle=1400 time=1.4123280833215577e+00 dt=8.5874400131833047e-04
+cycle=1500 time=1.4972742512406687e+00 dt=8.4014030944175896e-04
+cycle=1600 time=1.5804009032642121e+00 dt=8.2234248283331369e-04
+cycle=1700 time=1.6617867079516593e+00 dt=8.0533842632337304e-04
+cycle=1800 time=1.7415116294761512e+00 dt=7.8913265039061442e-04
+cycle=1900 time=1.8196541034354514e+00 dt=7.7369037154543683e-04
+cycle=2000 time=1.8962900614627343e+00 dt=7.5901639096782371e-04
+cycle=2100 time=1.9714960385545237e+00 dt=7.4508473652615628e-04
+cycle=2200 time=2.0453414037888189e+00 dt=7.3177364432943542e-04
+cycle=2300 time=2.1178806629524858e+00 dt=7.1896872024721479e-04
+cycle=2400 time=2.1891666344458671e+00 dt=7.0671943823077596e-04
+cycle=2500 time=2.2592542097173789e+00 dt=6.9500941314109708e-04
+cycle=2600 time=2.3281960848661996e+00 dt=6.8381432258473945e-04
+cycle=2700 time=2.3960433463309019e+00 dt=6.7311354489386866e-04
+cycle=2800 time=2.4628447487907490e+00 dt=6.6288667025578047e-04
+cycle=2900 time=2.5286469847669597e+00 dt=6.5312842286026557e-04
+cycle=3000 time=2.5934956889403793e+00 dt=6.4382736288189069e-04
+cycle=3100 time=2.6574350744295185e+00 dt=6.3494670236221814e-04
+cycle=3200 time=2.7205089818631492e+00 dt=6.2651685956412347e-04
+cycle=3300 time=2.7827605370626269e+00 dt=6.1850970308193582e-04
+cycle=3400 time=2.8442320137778756e+00 dt=6.1091190375216578e-04
+cycle=3500 time=2.9049660046964187e+00 dt=6.0377399234770362e-04
+cycle=3600 time=2.9650061629005506e+00 dt=5.9702867058316147e-04
+cycle=3700 time=3.0243926534598922e+00 dt=5.9071411434583553e-04
+cycle=3800 time=3.0831672480295027e+00 dt=5.8479752499097546e-04
+cycle=3900 time=3.1413715745490793e+00 dt=5.7929631560317758e-04
+cycle=4000 time=3.1990438580308855e+00 dt=5.7415915475521058e-04
+cycle=4100 time=3.2562209529896293e+00 dt=5.6939240183185929e-04
+cycle=4200 time=3.3129352733673487e+00 dt=5.6490307913724782e-04
+cycle=4300 time=3.3692158319668888e+00 dt=5.6071042104135441e-04
+cycle=4400 time=3.4250896806455509e+00 dt=5.5676351741433311e-04
+cycle=4500 time=3.4805790847526095e+00 dt=5.5302148818594165e-04
+cycle=4600 time=3.5357046320450602e+00 dt=5.4948026686299002e-04
+cycle=4700 time=3.5904846634577545e+00 dt=5.4609957285213257e-04
+cycle=4800 time=3.6449322399429134e+00 dt=5.4283135607933260e-04
+cycle=4900 time=3.6990592478738606e+00 dt=5.3969287779323343e-04
+cycle=5000 time=3.7528767682454545e+00 dt=5.3664552526713814e-04
+cycle=5100 time=3.8063936529294526e+00 dt=5.3366986454625800e-04
+cycle=5200 time=3.8596171181315717e+00 dt=5.3078100791350928e-04
+cycle=5300 time=3.9125584286117325e+00 dt=5.2802021995378015e-04
+cycle=5400 time=3.9652277948187233e+00 dt=5.2535789146660676e-04
+cycle=5500 time=4.0176392690855263e+00 dt=5.2286470944796972e-04
+cycle=5600 time=4.0698075114805974e+00 dt=5.2050773339004305e-04
+cycle=5700 time=4.1217474561303815e+00 dt=5.1828683553672484e-04
+cycle=5800 time=4.1734702311144423e+00 dt=5.1616506606589620e-04
+cycle=5900 time=4.2249871613359957e+00 dt=5.1415560351882126e-04
+cycle=6000 time=4.2763045136813664e+00 dt=5.1218723649729169e-04
+cycle=6100 time=4.3274293549003486e+00 dt=5.1029308080599426e-04
+cycle=6200 time=4.3783671569895244e+00 dt=5.0846940563214040e-04
+cycle=6300 time=4.4291327219519854e+00 dt=5.0685371491236849e-04
+cycle=6400 time=4.4797461296643881e+00 dt=5.0543689104876109e-04
+cycle=6500 time=4.5302261178826111e+00 dt=5.0417579866069079e-04
+cycle=6600 time=4.5805887712219979e+00 dt=5.0310251488458761e-04
+cycle=6700 time=4.6308566306543453e+00 dt=5.0228690579187619e-04
+cycle=6800 time=4.6810549928420775e+00 dt=5.0170696791112450e-04
+cycle=6900 time=4.7312054132211170e+00 dt=5.0133339659470648e-04
+cycle=7000 time=4.7813282878754713e+00 dt=5.0115780723841621e-04
+cycle=7100 time=4.8314448199547408e+00 dt=5.0120743014507509e-04
+cycle=7200 time=4.8815758795488415e+00 dt=5.0143196389785204e-04
+cycle=7300 time=4.9317318682683275e+00 dt=5.0169946003868356e-04
+cycle=7400 time=4.9819166507576345e+00 dt=5.0201462982406319e-04
+cycle=7500 time=5.0321405758727433e+00 dt=5.0245927528857971e-04
+cycle=7600 time=5.0824041660369987e+00 dt=5.0279950775281739e-04
+cycle=7700 time=5.1326983239975421e+00 dt=5.0308660692240310e-04
+cycle=7800 time=5.1830216734644790e+00 dt=5.0342242437419454e-04
+cycle=7900 time=5.2333928488220076e+00 dt=5.0405750487134235e-04
+cycle=8000 time=5.2838419156511947e+00 dt=5.0498992915437016e-04
+cycle=8100 time=5.3343984279039987e+00 dt=5.0614118938661315e-04
+cycle=8200 time=5.3850463465160789e+00 dt=5.0676171713493238e-04
+cycle=8300 time=5.4357548731323044e+00 dt=5.0752724711428771e-04
+cycle=8400 time=5.4865741102247361e+00 dt=5.0859149960412822e-04
+cycle=8500 time=5.5374716589278865e+00 dt=5.0945441799365900e-04
+cycle=8600 time=5.5884566504916569e+00 dt=5.1025479553652297e-04
+cycle=8700 time=5.6395389022421076e+00 dt=5.1143582344138146e-04
+cycle=8800 time=5.6907457054334527e+00 dt=5.1275782082170149e-04
+cycle=8900 time=5.7420786130691415e+00 dt=5.1375226920014278e-04
+cycle=9000 time=5.7934942388740209e+00 dt=5.1460395568787810e-04
+cycle=9100 time=5.8450035354653531e+00 dt=5.1559846645316020e-04
+cycle=9200 time=5.8966144038334818e+00 dt=5.1664259353481092e-04
+cycle=9300 time=5.9483334687840781e+00 dt=5.1776107978522936e-04
+cycle=9400 time=6.0001666058832654e+00 dt=5.1891276016608693e-04
+cycle=9500 time=6.0521149877676192e+00 dt=5.2006703684786952e-04
+cycle=9600 time=6.1041790370966815e+00 dt=5.2122430692854316e-04
+cycle=9700 time=6.1563581203599407e+00 dt=5.2235688434730250e-04
+cycle=9800 time=6.2085570183869576e+00 dt=5.2141319150723648e-04
+cycle=9900 time=6.2606491860318183e+00 dt=5.2045771404846976e-04
+cycle=10000 time=6.3126570172692826e+00 dt=5.1973117498626978e-04
+cycle=10100 time=6.3646035538763934e+00 dt=5.1922649443285102e-04
+cycle=10200 time=6.4165098503014679e+00 dt=5.1893149827534040e-04
+cycle=10300 time=6.4683941806769392e+00 dt=5.1877093592214187e-04
+cycle=10400 time=6.5202672593779081e+00 dt=5.1870432533484678e-04
+cycle=10500 time=6.5721377480508227e+00 dt=5.1871767045364716e-04
+cycle=10600 time=6.6240127139374776e+00 dt=5.1878987493114562e-04
+cycle=10700 time=6.6758965574668547e+00 dt=5.1888964992947647e-04
+cycle=10800 time=6.7277905616117897e+00 dt=5.1898996695028479e-04
+cycle=10900 time=6.7796940129709302e+00 dt=5.1907664596310271e-04
+cycle=11000 time=6.8316051205896002e+00 dt=5.1914290122288310e-04
+cycle=11100 time=6.8835221359222931e+00 dt=5.1919554298083257e-04
+cycle=11200 time=6.9354434939066065e+00 dt=5.1922645147059650e-04
+cycle=11300 time=6.9873655904468013e+00 dt=5.1920322583225154e-04
+cycle=11400 time=7.0392816520161121e+00 dt=5.1910461910576204e-04
+cycle=11500 time=7.0911842491189399e+00 dt=5.1893342379538167e-04
+cycle=11600 time=7.1430660558581698e+00 dt=5.1868856964335842e-04
+cycle=11700 time=7.1949204851654462e+00 dt=5.1839230590811178e-04
+cycle=11800 time=7.2467447049137066e+00 dt=5.1809211754210664e-04
+cycle=11900 time=7.2985402090948197e+00 dt=5.1782130361381282e-04
+cycle=12000 time=7.3503103602003819e+00 dt=5.1758391660593716e-04
+cycle=12100 time=7.4020577362928508e+00 dt=5.1736061214823067e-04
+cycle=12200 time=7.4537818735488388e+00 dt=5.1711260468804109e-04
+cycle=12300 time=7.5054779682584556e+00 dt=5.1679064293419584e-04
+cycle=12400 time=7.5571386029592142e+00 dt=5.1638986466621007e-04
+cycle=12500 time=7.6087572514142741e+00 dt=5.1595429923817775e-04
+cycle=12600 time=7.6603297119344953e+00 dt=5.1547721148226516e-04
+cycle=12700 time=7.7118471664245813e+00 dt=5.1480925231063622e-04
+cycle=12800 time=7.7632867111609487e+00 dt=5.1389606773406295e-04
+cycle=12900 time=7.8146349891400613e+00 dt=5.1306500411069382e-04
+cycle=13000 time=7.8659037773107707e+00 dt=5.1233276138547940e-04
+cycle=13100 time=7.9171024569845985e+00 dt=5.1165372051452049e-04
+cycle=13200 time=7.9682428576307531e+00 dt=5.1115773829337081e-04
+cycle=13300 time=8.0193317394011139e+00 dt=5.1064671445580725e-04
+cycle=13400 time=8.0703769189597878e+00 dt=5.1026210507472229e-04
+cycle=13500 time=8.1213870470832479e+00 dt=5.0995383206053381e-04
+cycle=13600 time=8.1723714382769632e+00 dt=5.0974808930848116e-04
+cycle=13700 time=8.2233397282091047e+00 dt=5.0962677717693262e-04
+cycle=13800 time=8.2742977619835774e+00 dt=5.0953921582462547e-04
+cycle=13900 time=8.3252498393306826e+00 dt=5.0950837301407990e-04
+cycle=14000 time=8.3761985933492102e+00 dt=5.0946355359596707e-04
+cycle=14100 time=8.4271418984612900e+00 dt=5.0939624190804195e-04
+cycle=14200 time=8.4780767136566340e+00 dt=5.0929342524707883e-04
+cycle=14300 time=8.5289992496179572e+00 dt=5.0914818938610344e-04
+cycle=14400 time=8.5799056036356180e+00 dt=5.0897541677971615e-04
+cycle=14500 time=8.6307946662861657e+00 dt=5.0880911637495236e-04
+cycle=14600 time=8.6816692666646311e+00 dt=5.0869453670296697e-04
+cycle=14700 time=8.7325372703417692e+00 dt=5.0868483826358834e-04
+cycle=14800 time=8.7834108460575475e+00 dt=5.0881180191960534e-04
+cycle=14900 time=8.8343042332554891e+00 dt=5.0908502115753693e-04
+cycle=15000 time=8.8852328330922070e+00 dt=5.0951803488619792e-04
+cycle=15100 time=8.9362126463699170e+00 dt=5.1011821762939860e-04
+cycle=15200 time=8.9872616777335939e+00 dt=5.1089933424339727e-04
+cycle=15300 time=9.0383985298239846e+00 dt=5.1186934305572508e-04
+cycle=15400 time=9.0896403347042316e+00 dt=5.1300254309979152e-04
+cycle=15500 time=9.1410001735299069e+00 dt=5.1421966354716145e-04
+cycle=15600 time=9.1924856895048190e+00 dt=5.1550534051476111e-04
+cycle=15700 time=9.2440981626615066e+00 dt=5.1675268715552019e-04
+cycle=15800 time=9.2958333615645916e+00 dt=5.1795170281124117e-04
+cycle=15900 time=9.3476833970532915e+00 dt=5.1904478227069871e-04
+cycle=16000 time=9.3996385752200169e+00 dt=5.2005095911202275e-04
+cycle=16100 time=9.4516899999491564e+00 dt=5.2097088145623021e-04
+cycle=16200 time=9.5038289591769107e+00 dt=5.2180696827815957e-04
+cycle=16300 time=9.5560490827965836e+00 dt=5.2258850780279118e-04
+cycle=16400 time=9.6083443733099525e+00 dt=5.2331882779639420e-04
+cycle=16500 time=9.6607101453196496e+00 dt=5.2399048302394040e-04
+cycle=16600 time=9.7131411694842313e+00 dt=5.2462640267468563e-04
+cycle=16700 time=9.7656328588780976e+00 dt=5.2520802523365402e-04
+cycle=16800 time=9.8181819753417479e+00 dt=5.2576135542944371e-04
+cycle=16900 time=9.8707835118342153e+00 dt=5.2627858160024521e-04
+cycle=17000 time=9.9234336310694324e+00 dt=5.2672820648731343e-04
+cycle=17100 time=9.9761299431234196e+00 dt=5.2719985516897069e-04
+
+Terminating on time limit
+time=1.0000000000000000e+01 cycle=17146
+tlim=1.0000000000000000e+01 nlim=-1
+
+zone-cycles = 4494721024
+cpu time used  = 5.5616925000000002e+01
+zone-cycles/cpu_second = 8.0815705363070682e+07
+
+omp wtime used = 5.8405071394983679e+01
+zone-cycles/omp_wsecond = 7.6957718168050125e+07
