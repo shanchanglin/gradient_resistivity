@@ -11,17 +11,17 @@ file_type = hst
 dt        = 0.01
 
 <output2>
-file_type   = athdf
+file_type   = hdf5
 variable    = prim
 dt          = 0.25
 
 <output3>
-file_type   = athdf
+file_type   = hdf5
 variable    = B
 dt          = 0.25
 
 <output4>
-file_type   = athdf
+file_type   = hdf5
 variable    = uov
 dt          = 0.25
 

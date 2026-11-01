@@ -133,7 +133,7 @@ def main():
         # Explicit Ohmic dt ~ dx^2/(4 eta) becomes prohibitive for large eta: use RKL2 STS
         sts = "rkl2" if eta_peak >= 1e-2 else "none"
         txt = TEMPLATE.format(
-            name=name, fmt=a.format, dtout=a.dtout, tlim=a.tlim or tlim, sts=sts,
+            name=name, fmt="hdf5" if a.format == "athdf" else "vtk", dtout=a.dtout, tlim=a.tlim or tlim, sts=sts,
             bvar="B" if a.format == "athdf" else "bcc", nx=a.nx, mb=min(a.mb, a.nx),
             eta_peak=eta_peak, iprof=iprof, eta1=eta1, eta2=eta2, leta=leta, pert=a.pert)
         path = os.path.join(a.outdir, f"athinput.{name}")
