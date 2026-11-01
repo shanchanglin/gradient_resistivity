@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A m0000            # <-- your NERSC project
+#SBATCH -A m2114            # <-- your NERSC project
 #SBATCH -C cpu
 #SBATCH -q regular
 #SBATCH -N 1
